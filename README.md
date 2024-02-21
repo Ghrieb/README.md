@@ -1,8 +1,8 @@
 # Hi there! I'm Ghrieb ! 🌟
 
-## Meet Ghrieb 👋
+## Who is Ghrieb ? 
 
-Hey, I'm Ghrieb, I'm a student building bridges between two worlds, I'm from Algiers, Currently I'm on a learning adventure at the University of Science and Technology Houari Boumediene (USTHB), studying Biology. Simultaneously, I'm dipping my toes into the world of Computer Science at the University of the People (UoPeople). When I'm not buried in books, you can find me freelancing on Fiverr, tinkering with AI.
+Hey, I'm Ghrieb 👋 I'm a student building bridges between two worlds, I'm from Algiers, Currently I'm on a learning adventure at the University of Science and Technology Houari Boumediene (USTHB), studying Biology. Simultaneously, I'm dipping my toes into the world of Computer Science at the University of the People (UoPeople). When I'm not buried in books, you can find me freelancing on Fiverr, tinkering with AI.
 
 🎓 Microsoft Certified Trainer in AI:
 - I've done some cool AI learning stuff.
