@@ -11,7 +11,7 @@ Hey, I'm Ghrieb 👋 I'm a student building bridges between two worlds, I'm from
 
 ## What's Next? 🚀
 In 2024, I'm eyeing UI/UX design. It sounds fun, right?
-By the end of 2024, I aim to establish myself as an active member of the GitHub community, having made meaningful contributions that reflect my passion for technology and innovation.
+Also, By the end of 2024, I aim to establish myself as an active member of the GitHub community.
 
 ## Let's Connect! 🌐
 
